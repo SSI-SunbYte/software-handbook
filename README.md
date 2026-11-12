@@ -2,13 +2,13 @@
 
 A central collection of software engineering standards, guidelines, and resources for the **SunbYte Software Team**.
 
-This repository aims to promote consistent development practices, maintainable code, and effective collaboration across SunbYte's software projects.
+This repository aims to promote consistent development practices, maintainable code, and effective collaboration across SunbYte's software projects. This is a living repo, and anyone is welcome to make changes at any time. If doing so, please open a branch so it can be merged after review.
 
 ## Contents
 
 ### Git & Collaboration
 
-- [Commit Guidelines](git/commit-conventions.md) — Conventions for writing clear and consistent Git commit messages.
+- [Commit Guidelines](git/commit-conventions.md) - Conventions for writing clear and consistent Git commit messages.
 
 *Additional guidelines will be added as the team develops.*
 
