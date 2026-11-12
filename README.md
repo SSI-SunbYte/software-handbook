@@ -9,6 +9,7 @@ This repository aims to promote consistent development practices, maintainable c
 ### Git & Collaboration
 
 - [Commit Guidelines](git/commit-conventions.md) - Conventions for writing clear and consistent Git commit messages.
+- [Branch Guidelines](/git/branch-conventions.md) - Conventions for branching to suggest a change to a repository.
 
 *Additional guidelines will be added as the team develops.*
 
@@ -18,7 +19,7 @@ This handbook is a collaborative resource maintained by the SunbYte Software Tea
 
 Team members are encouraged to suggest improvements, contribute new guidelines, and update existing documentation as our practices evolve.
 
-To propose a change, open an issue or submit a pull request.
+To propose a change, submit a pull request.
 
 ## Guiding Principles
 
