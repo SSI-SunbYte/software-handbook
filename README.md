@@ -11,6 +11,9 @@ This repository aims to promote consistent development practices, maintainable c
 - [Commit Guidelines](git/commit-conventions.md) - Conventions for writing clear and consistent Git commit messages.
 - [Branch Guidelines](/git/branch-conventions.md) - Conventions for branching to suggest a change to a repository.
 
+### Documentation
+
+- [README Template](/documentation/README-template.md) - A reusable README template containing a section on technical decisions.
 *Additional guidelines will be added as the team develops.*
 
 ## Contributing
