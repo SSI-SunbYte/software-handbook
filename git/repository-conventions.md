@@ -23,7 +23,7 @@ These conventions apply to all new repositories in `SSI-SunbYte`. Existing repos
 | `sol-` | SOL education programme material (workshops, activity guides) | `sol-thermal-management` |
 | `sunbyte<n>-` | Codebases tied to one SunbYte iteration, using the iteration number in digits | `sunbyte5-core` |
 | `<subsystem>-` | Code or hardware for a specific subsystem | `tracking-ros-prototype` |
-| pcb- | Hardware files from KiCAD | pcb-motor-board |
+| pcb- | Hardware files from KiCAD | `pcb-motor-board` |
 | *(none)* | Org-wide tooling and documentation | `software-handbook` |
 
 If a repo doesn't fit any scope, ask the software team lead (Liam Pallett) before creating it rather than inventing a new one.
