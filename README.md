@@ -10,6 +10,7 @@ This repository aims to promote consistent development practices, maintainable c
 
 - [Commit Guidelines](git/commit-conventions.md) - Conventions for writing clear and consistent Git commit messages.
 - [Branch Guidelines](/git/branch-conventions.md) - Conventions for branching to suggest a change to a repository.
+- [Repository Guidelines](git/repository-conventions.md) – naming and setup for new repositories
 
 ### Documentation
 
